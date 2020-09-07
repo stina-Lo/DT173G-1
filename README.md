@@ -12,3 +12,6 @@ Uppgiften går ut på följande:
     5. git clone
  2. Skapa en enklare hemsida med hjälp av HTML, CSS
   * Publicera den enklare hemsidan via GIThub pages. 
+  
+ För att klona repository till datorn används kommandot git clone git@github.com:stina-Lo/DVGB06-public.git.
+
